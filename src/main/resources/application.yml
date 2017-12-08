@@ -1,0 +1,3 @@
+security:
+  basic:
+    authorize-mode: authenticated
